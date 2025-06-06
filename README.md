@@ -1,5 +1,4 @@
 # Attention-Based-Drug-QA-Model
-# Drug Attention QA Model
 
 A biomedical question-answering system focused on drug information, built using BioBERT and PyTorch.
 
